@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Will you be my Valentine on February 14th, 2026 — and every one after? 🌹❤️",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much?? You sure something not wrong with you?🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        high: "To infinity and beyond! Damn thats quite alot! 🚀💝",              // Shows when they go past 1000%
+        normal: "And beyond! YAYY 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
