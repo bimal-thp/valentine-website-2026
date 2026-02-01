@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dskcftzdh/video/upload/v1769960573/John_Legend_-_All_of_Me_Lyrics_-_7clouds_youtube_dn2wy9.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dskcftzdh/video/upload/v1769959799/Bruno_Mars_-_Just_The_Way_You_Are_Official_Music_Video_ubfgzh.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
